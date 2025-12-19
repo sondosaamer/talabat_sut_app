@@ -1,0 +1,558 @@
+[
+    {
+        "restaurant": "Grab and Go",
+        "currency": "EGP",
+        "categories": [
+            {
+                "category": "Soft Drinks",
+                "items": [
+                    {
+                        "name": "V cola",
+                        "price": 25
+                    },
+                    {
+                        "name": "Willes cola",
+                        "price": 30
+                    },
+                    {
+                        "name": "Bouvana water",
+                        "price": 15
+                    },
+                    {
+                        "name": "V7",
+                        "price": 25
+                    }
+                ]
+            },
+            {
+                "category": "Pizza",
+                "items": [
+                    {
+                        "name": "Margarita pizza",
+                        "price": 100
+                    },
+                    {
+                        "name": "Fried chicken ranch",
+                        "price": 140
+                    },
+                    {
+                        "name": "Bbq chicken pizza",
+                        "price": 135
+                    },
+                    {
+                        "name": "Grilled chicken ranch",
+                        "price": 140
+                    },
+                    {
+                        "name": "Super supreme pizza",
+                        "price": 140
+                    },
+                    {
+                        "name": "Pepperoni pizza",
+                        "price": 120
+                    }
+                ]
+            },
+            {
+                "category": "Pasta",
+                "items": [
+                    {
+                        "name": "Lasagna",
+                        "price": 80
+                    },
+                    {
+                        "name": "Pink Bolognese",
+                        "price": 120
+                    },
+                    {
+                        "name": "Mac & cheese pasta",
+                        "price": 120
+                    },
+                    {
+                        "name": "Alfredo pasta",
+                        "price": 140
+                    },
+                    {
+                        "name": "Negresco pasta",
+                        "price": 140
+                    },
+                    {
+                        "name": "Chicken with Spinach baked pasta",
+                        "price": 140
+                    }
+                ]
+            },
+            {
+                "category": "Crepe",
+                "items": [
+                    {
+                        "name": "Mix cheese crepe",
+                        "price": 120
+                    },
+                    {
+                        "name": "Chicken strips",
+                        "price": 140
+                    },
+                    {
+                        "name": "Tasty purger crepe",
+                        "price": 140
+                    },
+                    {
+                        "name": "Fries crepe",
+                        "price": 80
+                    },
+                    {
+                        "name": "Grilled chicken crepe",
+                        "price": 140
+                    },
+                    {
+                        "name": "Meat shawema crepe",
+                        "price": 160
+                    }
+                ]
+            },
+            {
+                "category": "Sandwiches",
+                "items": [
+                    {
+                        "name": "Syrian fries roll",
+                        "price": 60
+                    },
+                    {
+                        "name": "Syrian fried chicken roll",
+                        "price": 100
+                    },
+                    {
+                        "name": "Syrian fried chicken with fries sandwich",
+                        "price": 90
+                    }
+                ]
+            },
+            {
+                "category": "Smash burger",
+                "items": [
+                    {
+                        "name": "Single smash burger",
+                        "price": 80
+                    },
+                    {
+                        "name": "Double smash burger",
+                        "price": 140
+                    },
+                    {
+                        "name": "Triple smash burger",
+                        "price": 190
+                    }
+                ]
+            },
+            {
+                "category": "Meals",
+                "items": [
+                    {
+                        "name": "Fried chicken meal",
+                        "price": 140
+                    },
+                    {
+                        "name": "Grilled chicken meal",
+                        "price": 130
+                    },
+                    {
+                        "name": "Shwerma fettah",
+                        "price": 120
+                    }
+                ]
+            },
+            {
+                "category": "Fried chicken sandwiches",
+                "items": [
+                    {
+                        "name": "Creamy bolognese sandwich",
+                        "price": 150
+                    },
+                    {
+                        "name": "Classic fried chicken sandwich",
+                        "price": 120
+                    },
+                    {
+                        "name": "Cheesy fried chicken sandwich",
+                        "price": 125
+                    }
+                ]
+            },
+            {
+                "category": "Appitizers",
+                "items": [
+                    {
+                        "name": "Plain fries",
+                        "price": 30
+                    },
+                    {
+                        "name": "Cheesy fries",
+                        "price": 50
+                    },
+                    {
+                        "name": "Cheesy fries with fried chicken",
+                        "price": 75
+                    },
+                    {
+                        "name": "Bolognese fries",
+                        "price": 75
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Relish",
+        "currency": "EGP",
+        "categories": [
+            {
+                "category": "PASTA",
+                "items": [
+                    {
+                        "name": "Pasta Red Sauce",
+                        "price": 65
+                    },
+                    {
+                        "name": "Pasta White Sauce",
+                        "price": 70
+                    },
+                    {
+                        "name": "Pasta Bolognese",
+                        "price": 100
+                    },
+                    {
+                        "name": "Pasta Hot dog",
+                        "price": 100
+                    },
+                    {
+                        "name": "lasagna",
+                        "price": 110
+                    },
+                    {
+                        "name": "Mac & Cheese",
+                        "price": 90
+                    }
+                ]
+            },
+            {
+                "category": "PIZZA",
+                "items": [
+                    {
+                        "name": "Margherita",
+                        "price": 110
+                    },
+                    {
+                        "name": "Vegetables",
+                        "price": 120
+                    },
+                    {
+                        "name": "Hot dog",
+                        "price": 130
+                    },
+                    {
+                        "name": "Salami",
+                        "price": 140
+                    },
+                    {
+                        "name": "Chicken BBQ",
+                        "price": 150
+                    },
+                    {
+                        "name": "Chicken Ranch",
+                        "price": 150
+                    }
+                ]
+            },
+            {
+                "category": "PASTRY",
+                "items": [
+                    {
+                        "name": "Muffin",
+                        "price": 30
+                    },
+                    {
+                        "name": "Cookies",
+                        "price": 35
+                    },
+                    {
+                        "name": "Brownies",
+                        "price": 40
+                    },
+                    {
+                        "name": "Chocolate Fuge",
+                        "price": 65
+                    },
+                    {
+                        "name": "English Cake",
+                        "price": 35
+                    }
+                ]
+            },
+            {
+                "category": "BEVERAGES",
+                "items": [
+                    {
+                        "name": "Tea",
+                        "price": 20
+                    },
+                    {
+                        "name": "Esspresso",
+                        "price": 35
+                    },
+                    {
+                        "name": "Turkish Coffee",
+                        "price": 35
+                    },
+                    {
+                        "name": "French Coffee",
+                        "price": 50
+                    },
+                    {
+                        "name": "American Coffee",
+                        "price": 40
+                    },
+                    {
+                        "name": "V Cola",
+                        "price": 25
+                    }
+                ]
+            },
+            {
+                "category": "Sandwiches",
+                "items": [
+                    {
+                        "name": "Foul with tehina egg baladi bread",
+                        "price": 20
+                    },
+                    {
+                        "name": "Taameya baladi bread",
+                        "price": 20
+                    },
+                    {
+                        "name": "French fries baladi bread",
+                        "price": 25
+                    },
+                    {
+                        "name": "Baba ghanouj baladi bread",
+                        "price": 20
+                    },
+                    {
+                        "name": "Boiled egg baladi bread",
+                        "price": 25
+                    },
+                    {
+                        "name": "Omlette & vegetables baladi bread",
+                        "price": 30
+                    }
+                ]
+            },
+            {
+                "category": "CREPE",
+                "items": [
+                    {
+                        "name": "Grilled chicken crepe",
+                        "price": 115
+                    },
+                    {
+                        "name": "Chicken strips crepe",
+                        "price": 115
+                    },
+                    {
+                        "name": "Hot dog crepe",
+                        "price": 100
+                    },
+                    {
+                        "name": "French fries crepe",
+                        "price": 75
+                    },
+                    {
+                        "name": "Chocolate crepe",
+                        "price": 75
+                    },
+                    {
+                        "name": "Lotus crepe",
+                        "price": 75
+                    }
+                ]
+            },
+            {
+                "category": "HOT SANDWICHES",
+                "items": [
+                    {
+                        "name": "Hot dog",
+                        "price": 100
+                    },
+                    {
+                        "name": "Chicken strips",
+                        "price": 110
+                    },
+                    {
+                        "name": "Burger",
+                        "price": 100
+                    },
+                    {
+                        "name": "Cheese burger",
+                        "price": 120
+                    },
+                    {
+                        "name": "French fries",
+                        "price": 70
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "restaurant": "Varieties - Fresh me now",
+        "currency": "EGP",
+        "categories": [
+            {
+                "category": "Juices",
+                "items": [
+                    {
+                        "name": "Orange",
+                        "price": 80
+                    },
+                    {
+                        "name": "Guava",
+                        "price": 70
+                    },
+                    {
+                        "name": "Strawberry",
+                        "price": 70
+                    },
+                    {
+                        "name": "Pineapple",
+                        "price": 140
+                    },
+                    {
+                        "name": "Mango",
+                        "price": 80
+                    },
+                    {
+                        "name": "Banana",
+                        "price": 80
+                    }
+                ]
+            },
+            {
+                "category": "Energy Drinks",
+                "items": [
+                    {
+                        "name": "Florida",
+                        "price": 60
+                    },
+                    {
+                        "name": "Peach Yogurt",
+                        "price": 70
+                    },
+                    {
+                        "name": "Mango Madness",
+                        "price": 80
+                    },
+                    {
+                        "name": "Strawberry Yogurt",
+                        "price": 70
+                    },
+                    {
+                        "name": "Creamy Oreo",
+                        "price": 80
+                    }
+                ]
+            },
+            {
+                "category": "Smoothies",
+                "items": [
+                    {
+                        "name": "Strawberry",
+                        "price": 65
+                    },
+                    {
+                        "name": "Mango",
+                        "price": 65
+                    },
+                    {
+                        "name": "Kiwi",
+                        "price": 95
+                    },
+                    {
+                        "name": "Watermelon",
+                        "price": 55
+                    },
+                    {
+                        "name": "Berry",
+                        "price": 65
+                    },
+                    {
+                        "name": "Pineapple",
+                        "price": 100
+                    }
+                ]
+            },
+            {
+                "category": "Hot Drinks",
+                "items": [
+                    {
+                        "name": "Espresso",
+                        "price": 30
+                    },
+                    {
+                        "name": "Latte",
+                        "price": 75
+                    },
+                    {
+                        "name": "Cappuccino",
+                        "price": 75
+                    },
+                    {
+                        "name": "French Coffee",
+                        "price": 45
+                    },
+                    {
+                        "name": "Turkish Coffee",
+                        "price": 25
+                    }
+                ]
+            },
+            {
+                "category": "Fruit pieces",
+                "items": [
+                    {
+                        "name": "Watermelon",
+                        "price": 60
+                    },
+                    {
+                        "name": "Strawberry",
+                        "price": 65
+                    },
+                    {
+                        "name": "Fruit Salad",
+                        "price": 70
+                    },
+                    {
+                        "name": "Mango",
+                        "price": 85
+                    }
+                ]
+            },
+            {
+                "category": "Winter Corner",
+                "items": [
+                    {
+                        "name": "Hot Chocolate",
+                        "price": 70
+                    },
+                    {
+                        "name": "Sahlab with Nuts",
+                        "price": 60
+                    },
+                    {
+                        "name": "Hummus shami",
+                        "price": 40
+                    }
+                ]
+            }
+        ]
+    }
+]

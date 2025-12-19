@@ -1,0 +1,30 @@
+{
+    "date": "2025-12-19",
+    "items": [
+        {
+            "name": "Willes cola",
+            "price": 30,
+            "category": "Soft Drinks",
+            "qty": 1
+        },
+        {
+            "name": "Pineapple",
+            "price": 140,
+            "category": "Juices",
+            "qty": 4
+        },
+        {
+            "name": "Florida",
+            "price": 60,
+            "category": "Energy Drinks",
+            "qty": 2
+        },
+        {
+            "name": "Mango Madness",
+            "price": 80,
+            "category": "Energy Drinks",
+            "qty": 2
+        }
+    ],
+    "total": 870
+}
